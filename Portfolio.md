@@ -166,7 +166,7 @@ Il participe activement aux démarches de qualité et de sécurité des soins mi
 
 Au cours de la phase 3 dite phase de consolidation, l’étudiant consolide l’ensemble des connaissances et compétences professionnelles acquises lors des deux premières phases et nécessaires à l’exercice de la spécialité. Il prépare également son insertion professionnelle.
 
-A l’issue de la phase 3 :
+À l’issue de la phase 3 :
 
 I. - L’étudiant inscrit en troisième cycle :
 
@@ -204,3 +204,4 @@ II. - En outre, selon son cursus initial, l’étudiant inscrit dans la spécial
 - [ ] réalise des consultations de conseil des patients pour les étudiants issus du concours de l’internat en pharmacie.
 
 ## 9. Projets de formation et projets professionnels
+DU/DIU, projets de parcours d'internat, de master, de thèse d'université, de post-internat...
