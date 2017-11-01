@@ -1,29 +1,44 @@
 ## Stages
 
-Intitulé :
-Dates :
-Dates des gardes :
+- Semestre :
+- Secteur : (oncogénétique, neurogénétique, cytogénétique, biologie moléculaire...)
+- Service et établissement :
+- Tuteur :
+- Descriptif :
 
 ### Pathologies rencontrées
 
 #### Nom de la pathologie
 - [ ] consultation
 - [ ] examen de biologie médicale
+
 - [ ] prénatal
 - [ ] postnatal
 
-## Enseignements
+- [ ] diagnostic
+- [ ] recherche
+
+## Enseignements et formations
 
 ### Cours de DES
 
-Dates
-Attestations de présence
+- Dates
+- Thématique
+- Programme
+- Attestation de présence
 
-### DU et DIU
+### Intitulé (DIU, DU, congrès, séminaires)
 
-## Présentations de cas
+- Dates
+- Programme
+- Attestation de présence / diplôme
 
-Présentations de cas cliniques, de pathologies, de revues de la littérature, de  en réunion
+## Présentations
+
+Présentations en réunion de cas cliniques, de pathologies, de notions, d'articles, de revues de la littérature...
+- Dates
+- Intitulé de la présentation
+- Type de réunion (staffs clinico-biologiques, CPDPN...)
 
 ## Communications
 
@@ -31,8 +46,8 @@ Présentations de cas cliniques, de pathologies, de revues de la littérature, d
 - Communications orales
 - Publications
 
-### Projets de recherches
+### Projets de recherche
 
 ### Financements
 
-### Awards
+### Distinctions
