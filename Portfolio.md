@@ -65,9 +65,15 @@ Présentations en réunion de cas cliniques, de pathologies, de notions, d'artic
 - Date
 
 ## 5. Projets de recherche
+- Nom
+- Équipe, unité (CNRS, INSERM...)
+- Porteur du projet, investigateur, coordonateur...
+- Rôle
+- Financements
 
-## 6. Financements
+## 6. Distinctions
 
-## 7. Distinctions
-
-## 8. Contributions associatives et administratives
+## 7. Contributions associatives et administratives
+- Bureau de l'internat
+- Interne référent de spécialité
+- Bureau de la SIGF, Clubioinfo, Labsquare
