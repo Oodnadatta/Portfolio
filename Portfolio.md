@@ -1,22 +1,21 @@
-## Stages
-- Semestre :
-- Secteur : (oncogénétique, neurogénétique, cytogénétique, biologie moléculaire...)
-- Service et établissement :
-- Tuteur :
-- Descriptif :
+## 1. Stages
+- Semestre
+- Secteur (oncogénétique, neurogénétique, cytogénétique, biologie moléculaire...)
+- Service et établissement
+- Tuteur
+
+### Descriptif du stage et activités principales
 
 ### Pathologies rencontrées
-
 #### Nom de la pathologie
-- consultation (observation, autonomie)
-- examen de biologie médicale (réalisation technique, validation biologique, nombre de dossiers)
-- prénatal
-- postnatal
-- diagnostic
-- recherche
+- Consultation (observation, autonomie)
+- Examen de biologie médicale (réalisation technique, validation biologique, nombre de dossiers)
+- Prénatal
+- Postnatal
+- Diagnostic
+- Recherche
 
-## Enseignements et formations
-
+## 2. Enseignements et formations
 ### Cours de DES
 - Dates
 - Thématique
@@ -28,21 +27,24 @@
 - Programme
 - Attestation de présence / diplôme
 
-## Présentations
+## 3. Compétences
+Cliniques, biologiques, bioinformatiques, sous-spécialisation...
+
+## 4. Communications
+
+### Présentations
 Présentations en réunion de cas cliniques, de pathologies, de notions, d'articles, de revues de la littérature...
 - Dates
 - Intitulé de la présentation
-- Type de réunion (staffs clinico-biologiques, CPDPN...)
+- Type de réunion (staffs clinico-biologiques, CPDPN, 3e jeudi de génétique...)
+### Communications affichées
+### Communications orales
+### Publications
+### Rédaction de documents de management de la qualité (norme ISO 15189), de bonnes pratiques (PNDS)...
 
-## Communications
-- Communications affichées
-- Communications orales
-- Publications
-- Rédaction de documents de management de la qualité (norme ISO 15189), de bonnes pratiques (PNDS)...
+## 5. Projets de recherche
 
-### Projets de recherche
-
-### Financements
+## 6. Financements
 
 ### Distinctions
 
