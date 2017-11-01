@@ -65,11 +65,15 @@ Présentations en réunion de cas cliniques, de pathologies, de notions, d'artic
 - Date
 
 ## 5. Projets de recherche
-- Nom
+
+### Intitulé du projet (mémoire de DES, thèse d'exercice)
+- Sujet
+- Directeur et encadrant (le cas échéant)
 - Équipe, unité (CNRS, INSERM...)
 - Porteur du projet, investigateur, coordonateur...
 - Rôle
 - Financements
+- Résumé
 
 ## 6. Distinctions
 
@@ -198,3 +202,5 @@ I. - L’étudiant inscrit en troisième cycle :
 II. - En outre, selon son cursus initial, l’étudiant inscrit dans la spécialité de biologie médicale :
 - [ ] réalise les consultations de patients de la spécialité ainsi que les consultations d’annonce pour les étudiants issus de la filière médicale ;
 - [ ] réalise des consultations de conseil des patients pour les étudiants issus du concours de l’internat en pharmacie.
+
+## 9. Projets de formation et projets professionnels
