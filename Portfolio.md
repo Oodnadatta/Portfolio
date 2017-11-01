@@ -9,14 +9,14 @@
 ### Pathologies rencontrées
 
 #### Nom de la pathologie
-- [ ] consultation
-- [ ] examen de biologie médicale
+- consultation (observation, autonomie)
+- examen de biologie médicale (réalisation technique, validation biologique, nombre de dossiers)
 
-- [ ] prénatal
-- [ ] postnatal
+- prénatal
+- postnatal
 
-- [ ] diagnostic
-- [ ] recherche
+- diagnostic
+- recherche
 
 ## Enseignements et formations
 
@@ -45,9 +45,12 @@ Présentations en réunion de cas cliniques, de pathologies, de notions, d'artic
 - Communications affichées
 - Communications orales
 - Publications
+- Rédaction de documents de management de la qualité (norme ISO 15189), de bonnes pratiques (PNDS)...
 
 ### Projets de recherche
 
 ### Financements
 
 ### Distinctions
+
+### Contributions associatives et administratives
