@@ -1,14 +1,16 @@
 ## 1. Stages
-- Semestre
+
+### 1<sup>er</sup> semestre
 - Secteur (oncogénétique, neurogénétique, cytogénétique, biologie moléculaire...)
 - Service et établissement
 - Tuteur
+- Dates
 
-### Descriptif du stage et activités principales
+#### Descriptif du stage et activités principales
 Consultations, extraction d'ADN, conception de pipelines, analyse de données de séquençage haut débit...
 
-### Pathologies rencontrées
-#### Nom de la pathologie
+#### Pathologies rencontrées
+##### Nom de la pathologie
 - Consultation (observation, autonomie)
 - Examen de biologie médicale (réalisation technique, validation biologique, **nombre de dossiers et date en vue des agréments**)
 - Prénatal
@@ -27,9 +29,6 @@ Consultations, extraction d'ADN, conception de pipelines, analyse de données de
 - Dates
 - Programme
 - Attestation de présence / diplôme
-
-## 3. Compétences
-Cliniques, biologiques, bioinformatiques, sous-spécialisation...
 
 ## 4. Communications
 
