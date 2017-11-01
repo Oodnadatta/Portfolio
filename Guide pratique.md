@@ -10,5 +10,4 @@ L'évolution des connaissances et des technologies justifie d'adapter sans cesse
 
 Il s'agit donc de trouver un outil qui permette de rendre compte de tout votre travail accompli et de votre progression durant vos années de DES, dans les 3 axes de formation. Ceci afin, non pas de vous embêter en fin de cursus avec une validation de DES, mais de pouvoir certifier et attester de l'acquisition des compétences indispensables pour l’exercice de votre métier de généticien. Vous l'aurez compris, cet outil est le portfolio.
 
-Inspiré du guide pratique du portfolio (Lyon), DES de Médecine Générale, année 2013-2014
-http://www.syrel-img.com/wp-content/uploads/2013/12/1.-Guide-pratique-du-Portfolio-2013-2014-Lyon.pdf
+Inspiré du [guide pratique du portfolio (Lyon), DES de Médecine Générale, année 2013-2014](http://www.syrel-img.com/wp-content/uploads/2013/12/1.-Guide-pratique-du-Portfolio-2013-2014-Lyon.pdf)
