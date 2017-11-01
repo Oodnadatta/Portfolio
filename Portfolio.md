@@ -10,7 +10,7 @@ Consultations, extraction d'ADN, conception de pipelines, analyse de données de
 ### Pathologies rencontrées
 #### Nom de la pathologie
 - Consultation (observation, autonomie)
-- Examen de biologie médicale (réalisation technique, validation biologique, nombre de dossiers)
+- Examen de biologie médicale (réalisation technique, validation biologique, **nombre de dossiers**)
 - Prénatal
 - Postnatal
 - Diagnostic
