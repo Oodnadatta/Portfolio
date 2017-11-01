@@ -5,6 +5,7 @@
 - Tuteur
 
 ### Descriptif du stage et activités principales
+Consultations, extraction d'ADN, conception de pipelines, analyse de données de séquençage haut débit...
 
 ### Pathologies rencontrées
 #### Nom de la pathologie
@@ -37,15 +38,36 @@ Présentations en réunion de cas cliniques, de pathologies, de notions, d'artic
 - Dates
 - Intitulé de la présentation
 - Type de réunion (staffs clinico-biologiques, CPDPN, 3e jeudi de génétique...)
+
 ### Communications affichées
+- Nom du poster
+- Auteurs (liste complète)
+- Lieu
+- Date
+
 ### Communications orales
+- Nom de la communication
+- Type (plénière, simultanée, flash...)
+- Auteurs (liste complète)
+- Lieu
+- Date
+
 ### Publications
+- Nom
+- Auteurs (liste complète)
+- Journal
+- Date
+
 ### Rédaction de documents de management de la qualité (norme ISO 15189), de bonnes pratiques (PNDS)...
+- Nom du document et numéro de version
+- Auteurs (liste complète)
+- Contexte
+- Date
 
 ## 5. Projets de recherche
 
 ## 6. Financements
 
-### Distinctions
+## 7. Distinctions
 
-### Contributions associatives et administratives
+## 8. Contributions associatives et administratives
