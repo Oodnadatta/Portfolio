@@ -47,6 +47,7 @@ Présentations en réunion de cas cliniques, de pathologies, de notions, d'artic
 ### Communications orales
 - Nom de la communication
 - Type (plénière, simultanée, flash...)
+- Sur proposition / sur invitation
 - Auteurs (liste complète)
 - Lieu
 - Date
